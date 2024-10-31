@@ -1,0 +1,8 @@
+{
+    "patient_id": 123,
+    "name": "John Doe",
+    "age": 30,
+    "medical_history": ["hypertension", "diabetes"],
+    "current_medications": ["medication1", "medication2"],
+    "allergies": ["none"]
+}
